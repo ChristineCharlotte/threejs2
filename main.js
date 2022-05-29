@@ -83,8 +83,8 @@ ice_cream.add(ball, cone);
  * Sizes
  */
 const sizes = {
-  width: 800,
-  height: 1000,
+  width: window.innerWidth,
+  height: window.innerHeight,
 };
 
 /**
